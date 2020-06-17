@@ -1,0 +1,1149 @@
+246420267433054
+Connectors
+1pin
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+Connectors
+3M-N7E50
+Connecteur PCMCIA + carte
+CONN
+0
+56
+50
+Connectors
+AK300-2
+CONNECTOR
+CONNECTOR
+0
+2
+2
+Connectors
+AK300-3
+CONNECTOR
+CONNECTOR
+0
+3
+3
+Connectors
+AK300-4
+CONNECTOR
+CONNECTOR
+0
+4
+4
+Connectors
+BARREL_JACK
+DC Barrel Jack
+Power Jack
+0
+3
+3
+Connectors
+BUSPCI
+Connecteur Bus PCI
+PCI CONN
+0
+240
+120
+Connectors
+BUS_AT
+Connecteur Bus AT ISA 16 bits
+CONN BUS ISA
+0
+98
+98
+Connectors
+BUS_PCI
+Connecteur Bus PCI
+PCI CONN
+0
+240
+120
+Connectors
+Banana_Jack_1Pin
+Single banana socket, footprint - 6mm drill
+banana socket
+0
+1
+1
+Connectors
+Banana_Jack_2Pin
+Dual banana socket, footprint - 2 x 6mm drills
+banana socket
+0
+2
+2
+Connectors
+Banana_Jack_3Pin
+Triple banana socket, footprint - 3 x 6mm drills
+banana socket
+0
+3
+3
+Connectors
+C96ABCFD
+Connecteur DIN Europe 96 contacts ABC male droit
+CONN DIN
+0
+98
+98
+Connectors
+C96ABCMD
+Connecteur DIN Europe 96 contacts ABC male droit
+CONN DIN
+0
+98
+98
+Connectors
+CNT3BRCMS
+
+
+0
+5
+3
+Connectors
+CR1220
+
+
+0
+5
+2
+Connectors
+CR2032H
+
+
+0
+2
+2
+Connectors
+CR2032V
+
+
+0
+3
+2
+Connectors
+CUI_PD-30
+3 pin connector, PD-30, http://www.cui.com/product/resource/pd-30.pdf
+connector 3-pin PD-30 power DIN
+0
+4
+4
+Connectors
+DB9FC
+Connecteur DB9 femelle couche
+CONN DB9
+0
+11
+9
+Connectors
+DB9FD
+Connecteur DB9 femelle droit
+CONN DB9
+0
+11
+10
+Connectors
+DB9F_CI
+Connecteur DB9 femelle encarte
+CONN DB9
+0
+9
+9
+Connectors
+DB9F_CI_INVERT
+Connecteur DB9 male encarte
+CONN DB9
+0
+9
+9
+Connectors
+DB9MC
+Connecteur DB9 male couche
+CONN DB9
+0
+11
+9
+Connectors
+DB9MD
+Connecteur DB9 male droit
+CONN DB9
+0
+11
+10
+Connectors
+DB9M_CI
+Connecteur DB9 male encarte
+CONN DB9
+0
+9
+9
+Connectors
+DB9M_CI_INVERT
+Connecteur DB9 femelle encarte
+CONN DB9
+0
+9
+9
+Connectors
+DB15FC
+Connecteur DB15 femelle couche
+CONN DB15
+0
+17
+15
+Connectors
+DB15FD
+Connecteur DB15 femelle droit
+CONN DB15
+0
+17
+16
+Connectors
+DB15F_CI
+Connecteur DB15 femelle encarte
+CONN DB15
+0
+15
+15
+Connectors
+DB15MC
+Connecteur DB15 MALE couche
+CONN DB15
+0
+17
+15
+Connectors
+DB15MD
+Connecteur DB15 male droit
+CONN DB15
+0
+17
+16
+Connectors
+DB15M_CI
+Connecteur DB15 femelle encarte
+CONN DB15
+0
+15
+15
+Connectors
+DB25FC
+Connecteur DB25 femelle couche
+CONN DB25
+0
+27
+25
+Connectors
+DB25FD
+Connecteur DB25 femelle droit
+CONN DB25
+0
+27
+26
+Connectors
+DB25F_CI
+Connecteur DB25 femelle encarte
+CONN DB25
+0
+25
+25
+Connectors
+DB25MC
+Connecteur DB25 MALE couche
+CONN DB25
+0
+27
+25
+Connectors
+DB25MD
+Connecteur DB25 male droit
+CONN DB25
+0
+27
+26
+Connectors
+DB25M_CI
+Connecteur DB25 male couche
+CONN DB25
+0
+25
+25
+Connectors
+DB37FC
+Connecteur DB37 femelle couche
+CONN DB37
+0
+39
+38
+Connectors
+DB37FD
+Connecteur DB37 femelle droit
+CONN DB37
+0
+39
+37
+Connectors
+DB37MD
+Connecteur DB37 male droit
+CONN DB37
+0
+39
+37
+Connectors
+FMC_LPC_ASP-134604-01
+http://www.samtec.com/standards/vita.aspx
+FMC LPC VITA 
+0
+162
+160
+Connectors
+Fan_Pin_Header_Straight_1x03
+3-pin CPU fan Through hole pin header
+pin header 3-pin CPU fan
+0
+3
+3
+Connectors
+Fan_Pin_Header_Straight_1x04
+4-pin CPU fan Through hole pin header
+pin header 4-pin CPU fan
+0
+4
+4
+Connectors
+GS2
+2-pin solder bridge
+solder bridge
+0
+2
+2
+Connectors
+GS3
+3-pin solder bridge
+solder bridge
+0
+3
+3
+Connectors
+GS_6x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+12
+12
+Connectors
+GS_8x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+16
+16
+Connectors
+GS_9x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+18
+18
+Connectors
+GTK2400-H2
+GTK2400-H2
+GTK2400-H2
+0
+2
+2
+Connectors
+GTK2400-V2
+GTK2400-V2
+GTK2400-V2
+0
+2
+2
+Connectors
+GoldTek_SCP20GR11
+GoldTek SCP20GR11
+CONN GoldTek SCP20GR11
+0
+20
+20
+Connectors
+GoldTek_SCP20GS11
+GoldTek SCP20GS11
+CONN GoldTek SCP20GS11
+0
+20
+20
+Connectors
+Grove_1x04
+https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
+Grove-1x04
+0
+4
+4
+Connectors
+HE10-10C
+Connecteur HE10 10 contacts couche
+CONN HE10
+0
+12
+11
+Connectors
+HE10-20D
+Connecteur HE10 20 contacts droit
+CONN HE10
+0
+22
+20
+Connectors
+HE10-26D
+Connecteur HE10 26 contacts droit
+CONN HE10
+0
+28
+26
+Connectors
+HE10-34D
+Connecteur HE10 34 contacts droit
+CONN HE10
+0
+36
+34
+Connectors
+HE10-40D
+Connecteur HE10 40 contacts droit
+CONN HE10
+0
+42
+40
+Connectors
+HE10-50D
+Connecteur HE10 50 contacts droit
+CONN HE10
+0
+52
+50
+Connectors
+HE10-60D
+Connecteur HE10 60 contacts droit
+CONN HE10
+0
+62
+60
+Connectors
+HE10-64D
+Connecteur HE10 64 contacts droit
+CONN HE10
+0
+66
+64
+Connectors
+HE10_20D
+Connecteur HE10 20 contacts droit
+CONN HE10
+0
+22
+20
+Connectors
+HE10_26D
+Connecteur HE10 26 contacts droit
+CONN HE10
+0
+28
+26
+Connectors
+HE10_34D
+Connecteur HE10 34 contacts droit
+CONN HE10
+0
+36
+34
+Connectors
+HE10_40D
+Connecteur HE10 40 contacts droit
+CONN HE10
+0
+42
+40
+Connectors
+HE10_50D
+Connecteur HE10 50 contacts droit
+CONN HE10
+0
+52
+50
+Connectors
+HE10_60D
+Connecteur HE10 60 contacts droit
+CONN HE10
+0
+62
+60
+Connectors
+HE10_64D
+Connecteur HE10 64 contacts droit
+CONN HE10
+0
+66
+64
+Connectors
+IDC_Header_Straight_6pins
+6 pins through hole IDC header
+IDC header socket VASCH AVR ISP
+0
+6
+6
+Connectors
+IDC_Header_Straight_8pins
+8 pins through hole IDC header
+IDC header socket VASCH
+0
+8
+8
+Connectors
+IDC_Header_Straight_10pins
+10 pins through hole IDC header
+IDC header socket VASCH
+0
+10
+10
+Connectors
+IDC_Header_Straight_12pins
+12 pins through hole IDC header
+IDC header socket VASCH
+0
+12
+12
+Connectors
+IDC_Header_Straight_14pins
+14 pins through hole IDC header
+IDC header socket VASCH
+0
+14
+14
+Connectors
+IDC_Header_Straight_16pins
+16 pins through hole IDC header
+IDC header socket VASCH
+0
+16
+16
+Connectors
+IDC_Header_Straight_20pins
+20 pins through hole IDC header
+IDC header socket VASCH
+0
+20
+20
+Connectors
+IDC_Header_Straight_26pins
+26 pins through hole IDC header
+IDC header socket VASCH
+0
+26
+26
+Connectors
+IDC_Header_Straight_30pins
+30 pins through hole IDC header
+IDC header socket VASCH
+0
+30
+30
+Connectors
+IDC_Header_Straight_34pins
+34 pins through hole IDC header
+IDC header socket VASCH
+0
+34
+34
+Connectors
+IDC_Header_Straight_40pins
+40 pins through hole IDC header
+IDC header socket VASCH
+0
+40
+40
+Connectors
+IDC_Header_Straight_50pins
+50 pins through hole IDC header
+IDC header socket VASCH
+0
+50
+50
+Connectors
+IDC_Header_Straight_60pins
+60 pins through hole IDC header
+IDC header socket VASCH
+0
+60
+60
+Connectors
+IDC_Header_Straight_64pins
+64 pins through hole IDC header
+IDC header socket VASCH
+0
+64
+64
+Connectors
+IQRF_KON-SIM-01
+8 pin SIM connector for IQRF TR modules
+IQRF_KON-SIM-01
+0
+10
+9
+Connectors
+JACK_ALIM
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+Connectors
+JWT_Vertical_A3963-RM3.96mm-2
+JWT A3963, 3.96mm pitch Pin head connector
+JWT A3963 pinhead
+0
+2
+2
+Connectors
+NMJ6HCD2
+NMJ6HCD2, TRS 1/4\\
+NMJ6HCD2 TRS stereo jack connector
+0
+6
+6
+Connectors
+PCI-EXPRESS
+
+
+0
+70
+36
+Connectors
+PINHEAD1-2
+
+
+0
+2
+2
+Connectors
+PINHEAD1-3
+
+
+0
+3
+3
+Connectors
+PINHEAD1-6
+
+
+0
+6
+6
+Connectors
+PINTST
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+Connectors
+PJ311_3.5mm_Jack
+PJ311 6pin SMD 3.5mm stereo headphones jack.
+headphones jack plug stereo 3.5mm PJ311
+0
+6
+6
+Connectors
+PJ320D_3.5mm_Jack
+Headphones with microphone connector, 3.5mm, 4 pins.
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+Connectors
+PJ320E_3.5mm_Jack
+Headphones with microphone connector, 3.5mm, 4 pins.
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+5
+5
+Connectors
+PJ31060-I_3.5mm_Jack
+PJ31060-I 6pin SMD 3.5mm headphones jack.
+headphones jack plug stereo 3.5mm PJ31060-I PJ31060
+0
+6
+6
+Connectors
+QMS-1X52-FEMALE-SMD
+
+
+0
+55
+53
+Connectors
+QMS-1X52-SMD
+
+
+0
+55
+53
+Connectors
+QMS-2X52-SMD
+
+
+0
+108
+106
+Connectors
+RJ12_E
+
+
+0
+8
+8
+Connectors
+RJ45_8
+
+RJ45
+0
+8
+8
+Connectors
+RJ45_TRANSFO
+
+RJ45
+0
+16
+14
+Connectors
+RJ45_TRANSFO_ver2
+
+RJ45
+0
+15
+9
+Connectors
+RJHSE538X
+mod. jack, ethernet, 8P8C, RJ45 connector, 2 leds, shielded
+RJHSE538X 8P8C RJ45 ethernet jack
+0
+16
+12
+Connectors
+SAS_mini_1888174
+36pin mini SAS connector
+SAS mini connector
+0
+44
+44
+Connectors
+SATA-7_SMD
+SERIAL ATA 7P R/A SMT
+SERIAL ATA SATA
+0
+9
+9
+Connectors
+SATA-7_THT_VERT_1
+
+
+0
+9
+9
+Connectors
+SATA-7_THT_VERT_2
+
+
+0
+9
+9
+Connectors
+SATA-22_SMD
+
+
+0
+26
+22
+Connectors
+SDS-50J
+SDS-50J, standard DIN connector, 5 pins, midi
+SDS-50J DIN 5-pins connector midi
+0
+7
+5
+Connectors
+SD_Card_Receptacle
+
+
+0
+13
+13
+Connectors
+SMA_SMD_Jack_Straight
+SMA pcb surface mount jack
+SMA SMD Jack Straight
+0
+15
+2
+Connectors
+SMA_THT_Jack_Straight
+SMA pcb through hole jack
+SMA THT Jack Straight
+0
+5
+2
+Connectors
+SMB_Straight
+SMB pcb mounting jack
+SMB Jack  Striaght
+0
+5
+2
+Connectors
+SOC676BR
+SOCAPEX 6 pins vertical shape - large
+SOCAPEX CONN
+0
+6
+6
+Connectors
+SOC676C
+SOCAPEX 6 pins horizontal shape
+SOCAPEX CONN
+0
+6
+6
+Connectors
+SOC676NY
+SOCAPEX 6 pins vertical shape - narrow
+SOCAPEX CONN
+0
+6
+6
+Connectors
+SUBCLICK
+Connecteur Subclick
+CONN DEV
+0
+5
+2
+Connectors
+TE_Futurebus+_5536607-1
+
+connector
+0
+27
+8
+Connectors
+Tag-Connect_TC2030-IDC-FP
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC.pdf
+tag connect programming header pogo pins
+0
+6
+6
+Connectors
+Tag-Connect_TC2030-IDC-NL
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+Connectors
+Tag-Connect_TC2050-IDC-FP
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2050-IDC-430%20Datasheet.pdf
+tag connect programming header pogo pins
+0
+10
+10
+Connectors
+Tag-Connect_TC2050-IDC-NL
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2050-IDC-NL%20Datasheet.pdf
+tag connect programming header pogo pins
+0
+10
+10
+Connectors
+Tag-Connect_TC2070-IDC-FP
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2070-IDC%20Datasheet.pdf
+tag connect programming header pogo pins
+0
+14
+14
+Connectors
+USB_A
+USB A connector
+USB USB_A
+0
+6
+5
+Connectors
+USB_A_Vertical
+USB A vertical female connector, right angle
+USB_A_Vertical female connector angled 73725-0110BLF
+0
+8
+5
+Connectors
+USB_B
+USB B connector
+USB_B USB_DEV
+0
+6
+5
+Connectors
+USB_B_MUSB_Straight
+USB B female connector, straight, rugged
+USB_B_MUSB_Straight female connector straight rugged MUSB D511
+0
+6
+5
+Connectors
+USB_Micro-B
+Micro USB Type B Receptacle
+USB USB_B USB_micro USB_OTG
+0
+9
+6
+Connectors
+USB_Micro-B_10103594-0001LF
+Micro USB Type B 10103594-0001LF
+USB USB_B USB_micro USB_OTG
+0
+11
+6
+Connectors
+USB_Mini-B
+USB Mini-B 5-pin SMD connector
+USB USB_B USB_Mini connector
+0
+9
+6
+Connectors
+Wafer_Horizontal10x5.8x7RM2.5-3
+Gold-Tek horizontal wafer connector with 2.5mm pitch
+wafer connector horizontal
+0
+3
+3
+Connectors
+Wafer_Horizontal15x5.8x7RM2.5-5
+Gold-Tek horizontal wafer connector with 2.5mm pitch
+wafer connector horizontal
+0
+5
+5
+Connectors
+Wafer_Horizontal17.5x5.8x7RM2.5-6
+Gold-Tek horizontal wafer connector with 2.5mm pitch
+wafer connector horizontal
+0
+6
+6
+Connectors
+Wafer_Horizontal20x5.8x7RM2.5-7
+Gold-Tek horizontal wafer connector with 2.5mm pitch
+wafer connector horizontal
+0
+7
+7
+Connectors
+Wafer_Horizontal22.5x5.8x7RM2.5-8
+Gold-Tek horizontal wafer connector with 2.5mm pitch
+wafer connector horizontal
+0
+8
+8
+Connectors
+Wafer_Vertical10x5.8x7RM2.5-3
+Gold-Tek vertical wafer connector with 2.5mm pitch
+wafer connector vertical
+0
+3
+3
+Connectors
+Wafer_Vertical15x5.8x7RM2.5-5
+Gold-Tek vertical wafer connector with 2.5mm pitch
+wafer connector vertical
+0
+5
+5
+Connectors
+Wafer_Vertical17.5x5.8x7RM2.5-6
+Gold-Tek vertical wafer connector with 2.5mm pitch
+wafer connector vertical
+0
+6
+6
+Connectors
+Wafer_Vertical20x5.8x7RM2.5-7
+Gold-Tek vertical wafer connector with 2.5mm pitch
+wafer connector vertical
+0
+7
+7
+Connectors
+Wafer_Vertical22.5x5.8x7RM2.5-8
+Gold-Tek vertical wafer connector with 2.5mm pitch
+wafer connector vertical
+0
+8
+8
+Connectors
+XLR3MC
+
+
+0
+5
+4
+Connectors
+XLR5MC
+
+
+0
+8
+5
+Connectors
+bnc
+BNC connector
+BNC connector
+0
+2
+2
+Connectors
+bnc-ci
+BNC female PCB mount 4 pin straight chassis connector
+BNC female PCB mount 4 pin straight chassis connector http://img-asia.electrocomponents.com/largeimages/L457024-02.gif
+0
+5
+2
+Connectors
+bornier2
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+Connectors
+bornier3
+Bornier d'alimentation 3 pins
+DEV
+0
+3
+3
+Connectors
+bornier4
+Bornier d'alimentation 4 pins
+DEV
+0
+4
+4
+Connectors
+bornier5
+Bornier d'alimentation 4 pins
+DEV
+0
+5
+5
+Connectors
+bornier6
+Bornier d'alimentation 4 pins
+DEV
+0
+6
+6
+Connectors
+c64abfd
+Connecteur DIN Europe 64 contatcts Femelle Droit
+CONN DIN
+0
+66
+66
+Connectors
+c64abmd
+Connecteur DIN Europe 64 contacts Male Droit
+CONN DIN
+0
+66
+66
+Connectors
+c64acfd
+Connecteur DIN Europe 96 contacts AC femelle droit
+CONN DIN
+0
+66
+66
+Connectors
+he10-10d
+Connecteur HE10 10 contacts droit
+CONN HE10
+0
+12
+10
+Connectors
+he10-14c
+Connecteur HE10 14 contacts couche
+CONN HE10
+0
+16
+15
+Connectors
+he10-14d
+Connecteur HE10 14 contacts droit
+CONN HE10
+0
+16
+15
+Connectors
+he10-16c
+Connecteur HE10 16 contacts couche
+CONN HE10
+0
+18
+17
+Connectors
+he10-16d
+Connecteur HE10 16 contacts droit
+CONN HE10
+0
+18
+17
+Connectors
+he10-20c
+Connecteur HE10 20 contacts couche
+CONN HE10
+0
+22
+21
+Connectors
+he10-26c
+Connecteur HE10 26 contacts couche
+CONN HE10
+0
+28
+27
+Connectors
+he10-34c
+Connecteur HE10 34 contacts couche
+CONN HE10
+0
+36
+35
+Connectors
+he10-40c
+Connecteur HE10 40 contacts couche
+CONN HE10
+0
+42
+41
+Connectors
+microSD_Card_Receptacle_Wuerth_693072010801
+http://katalog.we-online.de/em/datasheet/693072010801.pdf
+Micro SD Wuerth Wurth Würth
+0
+12
+9
