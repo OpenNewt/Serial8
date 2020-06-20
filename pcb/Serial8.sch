@@ -16,18 +16,18 @@ $EndDescr
 $Comp
 L conn:USB_B J1
 U 1 1 5B9743DD
-P 1000 2000
-F 0 "J1" H 800 2450 50  0000 L CNN
-F 1 "USB_B" H 800 2350 50  0000 L CNN
-F 2 "Connect:USB_B" H 1150 1950 50  0001 C CNN
-F 3 "" H 1150 1950 50  0001 C CNN
-	1    1000 2000
+P 1450 2000
+F 0 "J1" H 1250 2450 50  0000 L CNN
+F 1 "USB_B" H 1250 2350 50  0000 L CNN
+F 2 "Connect:USB_B" H 1600 1950 50  0001 C CNN
+F 3 "" H 1600 1950 50  0001 C CNN
+	1    1450 2000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3500 2000 1300 2000
+	3500 2000 2500 2000
 Wire Wire Line
-	1300 2100 3500 2100
+	1750 2100 2600 2100
 $Comp
 L Device:R R2
 U 1 1 5B9744F4
@@ -69,16 +69,16 @@ Wire Wire Line
 $Comp
 L power:GND #PWR06
 U 1 1 5B974615
-P 1000 2500
-F 0 "#PWR06" H 1000 2250 50  0001 C CNN
-F 1 "GND" H 1000 2350 50  0000 C CNN
-F 2 "" H 1000 2500 50  0001 C CNN
-F 3 "" H 1000 2500 50  0001 C CNN
-	1    1000 2500
+P 1450 3100
+F 0 "#PWR06" H 1450 2850 50  0001 C CNN
+F 1 "GND" H 1450 2950 50  0000 C CNN
+F 2 "" H 1450 3100 50  0001 C CNN
+F 3 "" H 1450 3100 50  0001 C CNN
+	1    1450 3100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1000 2500 1000 2400
+	1450 3100 1450 3000
 $Comp
 L rs423:26LS31 U1
 U 1 1 5B97471A
@@ -582,9 +582,9 @@ F 12 "Active" H 5950 2700 60  0001 L CNN "Status"
 	1    5750 1500
 	0    1    1    0   
 $EndComp
-Text Label 6250 1000 2    50   ~ 0
-TXD+
 Text Label 5250 1000 0    50   ~ 0
+TXD+
+Text Label 10000 1000 2    50   ~ 0
 TXD-
 Wire Wire Line
 	5650 1150 5650 1140
@@ -690,7 +690,7 @@ F 12 "Active" H 8450 2700 60  0001 L CNN "Status"
 	1    8250 1500
 	0    1    1    0   
 $EndComp
-Text Label 8750 1000 2    50   ~ 0
+Text Label 9000 1000 0    50   ~ 0
 HSKo
 Text Label 7750 1000 0    50   ~ 0
 HSKi
@@ -744,7 +744,7 @@ F 12 "Active" H 9700 2700 60  0001 L CNN "Status"
 	1    9500 1500
 	0    1    1    0   
 $EndComp
-Text Label 9000 1000 0    50   ~ 0
+Text Label 8750 1000 2    50   ~ 0
 GPIn
 Wire Wire Line
 	9400 1150 9400 1140
@@ -774,7 +774,6 @@ Wire Wire Line
 Connection ~ 9500 1840
 Wire Wire Line
 	9500 1840 9500 1950
-NoConn ~ 9600 1000
 $Comp
 L Device:C C7
 U 1 1 5EF5318C
@@ -1334,4 +1333,121 @@ Text Label 6750 3250 2    50   ~ 0
 HSKo_EMI
 Wire Wire Line
 	6750 3250 6400 3250
+$Comp
+L Power_Protection:SP0503BAHT D5
+U 1 1 5EEE31B6
+P 2500 2500
+F 0 "D5" H 2705 2546 50  0000 L CNN
+F 1 "SP0503BAHT" H 2705 2455 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-143" H 2725 2450 50  0001 L CNN
+F 3 "http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" H 2625 2625 50  0001 C CNN
+	1    2500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5EEE418D
+P 2500 2800
+F 0 "#PWR0101" H 2500 2550 50  0001 C CNN
+F 1 "GND" H 2500 2650 50  0000 C CNN
+F 2 "" H 2500 2800 50  0001 C CNN
+F 3 "" H 2500 2800 50  0001 C CNN
+	1    2500 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2500 2800 2500 2700
+Wire Wire Line
+	2400 1800 2150 1800
+Wire Wire Line
+	2500 2300 2500 2000
+Connection ~ 2500 2000
+Wire Wire Line
+	2500 2000 1750 2000
+Wire Wire Line
+	2600 2300 2600 2100
+Connection ~ 2600 2100
+Wire Wire Line
+	2600 2100 3500 2100
+$Comp
+L Device:R R18
+U 1 1 5EF1103E
+P 1350 2750
+F 0 "R18" V 1430 2750 50  0000 C CNN
+F 1 "1M" V 1350 2750 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 1280 2750 50  0001 C CNN
+F 3 "" H 1350 2750 50  0001 C CNN
+	1    1350 2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C16
+U 1 1 5EF11508
+P 950 2750
+F 0 "C16" H 1065 2796 50  0000 L CNN
+F 1 "4.7n" H 1065 2705 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 988 2600 50  0001 C CNN
+F 3 "~" H 950 2750 50  0001 C CNN
+	1    950  2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 3000 1350 3000
+Wire Wire Line
+	950  3000 950  2900
+Connection ~ 1450 3000
+Wire Wire Line
+	1450 3000 1450 2400
+Wire Wire Line
+	1350 2900 1350 3000
+Connection ~ 1350 3000
+Wire Wire Line
+	1350 3000 950  3000
+Wire Wire Line
+	1350 2400 1350 2500
+Wire Wire Line
+	1350 2500 950  2500
+Wire Wire Line
+	950  2500 950  2600
+Connection ~ 1350 2500
+Wire Wire Line
+	1350 2500 1350 2600
+$Comp
+L Device:Polyfuse_Small F1
+U 1 1 5EF6C892
+P 2050 1800
+F 0 "F1" V 1845 1800 50  0000 C CNN
+F 1 "Polyfuse_Small" V 1936 1800 50  0000 C CNN
+F 2 "Fuse:Fuse_1206_3216Metric" H 2100 1600 50  0001 L CNN
+F 3 "~" H 2050 1800 50  0001 C CNN
+	1    2050 1800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1950 1800 1850 1800
+$Comp
+L power:+5V #PWR0102
+U 1 1 5EF964DB
+P 2400 1600
+F 0 "#PWR0102" H 2400 1450 50  0001 C CNN
+F 1 "+5V" H 2400 1740 50  0000 C CNN
+F 2 "" H 2400 1600 50  0001 C CNN
+F 3 "" H 2400 1600 50  0001 C CNN
+	1    2400 1600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 1800 2400 1600
+Wire Wire Line
+	1850 1800 1850 1900
+Wire Wire Line
+	1850 1900 2400 1900
+Wire Wire Line
+	2400 1900 2400 2300
+Connection ~ 1850 1800
+Wire Wire Line
+	1850 1800 1750 1800
+Wire Wire Line
+	10000 1000 9600 1000
+NoConn ~ 6250 1000
 $EndSCHEMATC
